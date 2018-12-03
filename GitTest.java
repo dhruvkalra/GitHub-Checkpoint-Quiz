@@ -8,4 +8,7 @@ public class GitTest{
 	public String toString(){
 		return a;
 	}
+	public void setString(String a){
+		this.a = a;
+	}
 }
